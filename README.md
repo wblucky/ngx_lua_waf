@@ -90,9 +90,9 @@ nginx安装路径假设为:/usr/local/nginx/conf/
 
 ### 效果图如下：
 
-![sec](img/dashboard.png)
+![sec](./img/dashboard.png)
 
-![sec](img/info.png)
+![sec](./img/info.png)
 
 ### 规则更新：
 
